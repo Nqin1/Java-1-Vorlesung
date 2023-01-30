@@ -2,7 +2,7 @@ package Kontrollstrukturen;
 
 import java.util.Scanner;
 
-public class cases06 {
+public class Cases06 {
     static Scanner sc = new Scanner(System.in);
     static String lastName;
     static String gender;
